@@ -17,7 +17,7 @@
 </div>
 <br/>
 <div align="center">
-<a href="https://ibb.co/nnQDpYW">
+<a href="https://gist.github.com/JoshMassa/410e73b77d3ae4f21f6d03808795f7ac">
   <img width=315 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=410e73b77d3ae4f21f6d03808795f7ac" />
 </a>
 </div>
