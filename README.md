@@ -13,9 +13,11 @@
 <a href="https://github.com/JoshMassa/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshMassa&layout=compact&langs_count=8&card_width=300" />
 </a>
+<div align="center">
 <a href="https://ibb.co/nnQDpYW">
   <img width=315 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=410e73b77d3ae4f21f6d03808795f7ac" />
 </a>
+</div>
 <br/>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joshmassa&label=Profile%20views&color=0e75b6&style=flat" alt="joshmassa" /> </p>
