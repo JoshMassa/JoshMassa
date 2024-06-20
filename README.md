@@ -1,6 +1,8 @@
-<a href="https://ibb.co/zPYjwgS">
-  <img width=100% height=375 src="https://i.ibb.co/F8MNt1B/eat-sleep-code-repeat.jpg" alt="eat-sleep-code-repeat" border="0" />
+<div align="center">
+<a href="https://ibb.co/JRXrDKy">
+  <img width=100% src="https://i.ibb.co/N6wWcsm/eat-sleep-code-repeat.jpg" alt="eat-sleep-code-repeat" border="0">
 </a>
+</div>
 
 ## <p align="center">Hi there 👋</p> 
 ## <p align="center">I'm Joshua Massa-Pelletier, a Full Stack Web Developer who enjoys working with the MERN stack</p>
