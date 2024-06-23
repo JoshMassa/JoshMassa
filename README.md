@@ -4,8 +4,10 @@
 </a>
 </div>
 
-## <p align="center">Hi there 👋 I'm Joshua Massa-Pelletier</p> 
+## <p align="center">Hi there 👋 I'm Joshua Massa-Pelletier</p>
+
 ##### <p align="center">Passionate Full Stack Web Developer who enjoys working with the MERN stack. I'm always eager to take on complex challenges and learn new technologies.</p>
+##### <p align="center">Most of the projects you see on my page were developed in less than a week.</p>
 
 <div align="center">
 <a href="https://github.com/JoshMassa/github-readme-stats">
