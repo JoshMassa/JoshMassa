@@ -11,16 +11,16 @@
 
 <div align="center">
 <a href="https://github.com/JoshMassa/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=JoshMassa&show_icons=true&theme=vue-dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=JoshMassa&show_icons=true&theme=vue-dark" alt="github-readme-stats" />
 </a>
 <a href="https://github.com/JoshMassa/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshMassa&layout=compact&langs_count=8&card_width=300" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshMassa&layout=compact&langs_count=8&card_width=300" alt="top-languages" />
 </a>
 </div>
 <br/>
 <div align="center">
 <a href="https://gist.github.com/JoshMassa/410e73b77d3ae4f21f6d03808795f7ac">
-  <img width=315 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=410e73b77d3ae4f21f6d03808795f7ac" />
+  <img width=315 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=410e73b77d3ae4f21f6d03808795f7ac" alt="how-to-use-regex-to-match-email-gist" />
 </a>
 </div>
 <br/>
