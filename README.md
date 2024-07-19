@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on [Ease, a social media like chat platform](https://github.com/JoshMassa/Ease)
 
-- 🌱 I’m currently learning **Redux, AWS, Java**
+- 🌱 I’m currently furthering my knowledge of **React, Redux, and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JoshMassa](https://github.com/JoshMassa)
 
