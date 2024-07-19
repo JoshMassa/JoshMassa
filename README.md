@@ -27,7 +27,7 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joshmassa&label=Profile%20views&color=0e75b6&style=flat" alt="joshmassa" /> </p>
 
-- 🔭 I’m currently working on [Ease, a social media like chat platform](https://github.com/JoshMassa/Ease)
+- 🔭 I’m currently working on [Chris' Crafts, an e-commerce store specializing in hand-crafted leather goods ](https://github.com/JoshMassa/chris-crafts)
 
 - 🌱 I’m currently furthering my knowledge of **React, Redux, and Next.js**
 
