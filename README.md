@@ -37,6 +37,8 @@
 
 - ⚡ Fun fact: **I drove around the entire coast of Ireland from Dublin to Galway**
 
+- ✨ Check out my React portfolio: [**Here**](https://jmp-react-portfolio.netlify.app/) - There's even an easter egg if you click my name at the top left of my portfolio!
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/joshua-massa-pelletier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-massa-pelletier" height="30" width="40" /></a>
