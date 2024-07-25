@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently furthering my knowledge of **React, Redux, and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JoshMassa](https://github.com/JoshMassa)
+- 👨‍💻 All of my projects are currently available at [https://github.com/JoshMassa](https://github.com/JoshMassa)
 
 - 📫 How to reach me **joshmassa@gmail.com**
 
