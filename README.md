@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on [Chris' Crafts, an e-commerce store specializing in hand-crafted leather goods ](https://github.com/JoshMassa/chris-crafts)
 
-- 🌱 I’m currently furthering my knowledge of **React, Redux, and Next.js**
+- 🌱 I’m currently furthering my knowledge of **WordPress & PHP**
 
 - 👨‍💻 All of my projects are currently available at [https://github.com/JoshMassa](https://github.com/JoshMassa)
 
