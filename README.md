@@ -27,7 +27,7 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joshmassa&label=Profile%20views&color=0e75b6&style=flat" alt="joshmassa" /> </p>
 
-- 🔭 I’m currently working on [Chris' Crafts, an e-commerce store specializing in hand-crafted leather goods ](https://github.com/JoshMassa/chris-crafts)
+- 🔭 I’m currently working as a **Junior Web Developer & Systems Administrator** for **Exposure**, a Web Development company in Connecticut
 
 - 🌱 I’m currently furthering my knowledge of **WordPress & PHP**
 
