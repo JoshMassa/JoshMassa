@@ -31,9 +31,9 @@
 
 - 🌱 I’m currently furthering my knowledge of **WordPress & PHP**
 
-- 👨‍💻 All of my projects are currently available at [https://github.com/JoshMassa](https://github.com/JoshMassa)
+- 👨‍💻 All of my projects are currently available right here at [https://github.com/JoshMassa](https://github.com/JoshMassa)
 
-- 📫 How to reach me **joshmassa@gmail.com**
+<p style=display:none;>- 📫 How to reach me **joshmassa@gmail.com**</p>
 
 - ⚡ Fun fact: **I drove around the entire coast of Ireland from Dublin to Galway**
 
