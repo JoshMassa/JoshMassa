@@ -33,8 +33,6 @@
 
 - 👨‍💻 All of my projects are currently available right here at [https://github.com/JoshMassa](https://github.com/JoshMassa)
 
-<p style=display:none;>- 📫 How to reach me **joshmassa@gmail.com**</p>
-
 - ⚡ Fun fact: **I drove around the entire coast of Ireland from Dublin to Galway**
 
 - ✨ Check out my React portfolio: [**Here**](https://jmp-react-portfolio.netlify.app/) - There's even an easter egg if you click my name at the top left of my portfolio!
