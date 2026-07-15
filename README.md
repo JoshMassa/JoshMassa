@@ -35,7 +35,7 @@
 
 - ⚡ Fun fact: **I drove around the entire coast of Ireland from Dublin to Galway**
 
-- ✨ Check out my React portfolio: [**Here**](https://jmp-react-portfolio.netlify.app/) - There's even an easter egg if you click my name at the top left of my portfolio!
+- ✨ <a href="https://jmp-react-portfolio.netlify.app/" target="_blank">Check out my React portfolio</a> - There's even an easter egg if you click my name at the top left of my portfolio!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
